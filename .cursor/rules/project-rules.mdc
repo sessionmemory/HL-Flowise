@@ -1,0 +1,15 @@
+---
+alwaysApply: true
+---
+# Project-Specific Context for HL-Flowise
+
+**Status**: Awaiting Notion Iso Registry data
+
+**Instructions for SAUL**:
+1. Search Notion Iso Registry (288dda11c532802ba79ecad4a2d07c22)
+2. Find project: "HL-Flowise"
+3. Extract "Iso Poi Detail" formula property
+4. Replace this placeholder with that content
+5. Save and continue
+
+**Note**: This file will be auto-populated on first SAUL session.

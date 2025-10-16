@@ -1,0 +1,20 @@
+{
+  "project": {
+    "name": "",
+    "identifier": "",
+    "id": "",
+    "workspace_id": ""
+  },
+  "states": {
+    "backlog": "",
+    "todo": "",
+    "in_progress": "",
+    "done": "",
+    "cancelled": ""
+  },
+  "labels": {},
+  "modules": {},
+  "cycles": {},
+  "last_updated": ""
+}
+
